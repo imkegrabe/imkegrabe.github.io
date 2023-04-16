@@ -1,6 +1,7 @@
----
----
-@import "{{ site.theme }}";
-body {
-  font-family: 'Anonymous Pro', monospace;
+.sidebar {
+  width: 50%;
+}
+
+.content {
+  width: 50%;
 }
