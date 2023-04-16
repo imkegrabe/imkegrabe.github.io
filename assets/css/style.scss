@@ -1,17 +1,6 @@
 ---
 ---
 @import "{{ site.theme }}";
-header {
-  img {
-    border-radius: 50%;
-  }
-  p {
-    text-align: center;
-  }
-  p.view {
-    text-align: left;
-  }
-}
 body {
   font-family: 'Anonymous Pro', monospace;
 }
